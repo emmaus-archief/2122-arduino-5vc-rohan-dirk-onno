@@ -24,6 +24,10 @@ Je kunt een circuit bijvoorbeeld als volgt maken
 ## Stap 2: Test Code
 - [ ] Je hebt code gemaakt waarmee je kunt testen dat alle onderdelen op je circuit goed werken. Dit sla je op in GitHub.
 
+gebruik voor de auto: https://www.waveshare.com/wiki/AlphaBot2-Ar    https://www.waveshare.com/wiki/File:AlphaBot2-Demo.7z
+
+
+
 In de map voor deze stap zet je de test-code (het .ino bestand) voor je circuit. De naam van een .ino bestand mag geen spaties bevatten en het .ino bestand moet in een map staan met dezelfde naam.
 
 De test-code is een ander programma dan je eindcode. De testcode laat snel zien dat alles werkt wat op je Arduino is aangesloten. Door de test-code in je Arduino te zetten kun je snel zien of je Arduino-circuit nog heel is.
