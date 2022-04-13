@@ -1,16 +1,16 @@
-n deze repo bewaar je alle bestanden die je maakt voor de opdracht Arduino.
+in deze repo bewaar je alle bestanden die je maakt voor de opdracht Arduino.
 
 ## Stap 0: Starten
-- [ x]	Je hebt je GitHub-inlognaam aan de docent doorgegeven, zodat die een Github-repo kan aanmaken.
-- [ x]	Je hebt gekozen wat je gaat maken en dat aan de docent doorgegeven, bij een eigen idee moet de docent het goedkeuren.
-- []	Je hebt thuis een computer of laptop (Arduino werkt niet op een iPad) waarop je de gratis Arduino software hebt geïnstalleerd, of je hebt er rekening mee gehouden dat je een paar uur per week op school op een computer kan werken.
+- [x]	Je hebt je GitHub-inlognaam aan de docent doorgegeven, zodat die een Github-repo kan aanmaken.
+- [x]	Je hebt gekozen wat je gaat maken en dat aan de docent doorgegeven, bij een eigen idee moet de docent het goedkeuren.
+- [x]	Je hebt thuis een computer of laptop (Arduino werkt niet op een iPad) waarop je de gratis Arduino software hebt geïnstalleerd, of je hebt er rekening mee gehouden dat je een paar uur per week op school op een computer kan werken.
 
 
 ## Stap 1: Circuit
 
-- [ ] Je weet welke sensoren en actuatoren je wilt gebruiken.
-- [ ] Je hebt een schema getekend van je ontwerp, waaruit blijkt hoe alles aangesloten moet worden (bij een project waar de hardware al klaar is beschrijf je welke sensoren en actuatoren op welke pinnen zijn aangesloten). Dit sla je op in GitHub.
-- [ ] Je hebt je circuit in elkaar gezet (bij een project waar de hardware al klaar is is dit niet nodig).
+- [x] Je weet welke sensoren en actuatoren je wilt gebruiken.
+- [in_testcode] Je hebt een schema getekend van je ontwerp, waaruit blijkt hoe alles aangesloten moet worden (bij een project waar de hardware al klaar is beschrijf je welke sensoren en actuatoren op welke pinnen zijn aangesloten). Dit sla je op in GitHub.
+- [in_testcode] Je hebt je circuit in elkaar gezet (bij een project waar de hardware al klaar is is dit niet nodig).
 
 Het circuit is een aansluitschema, je kunt daarop zien welke componenten je gebruikt en op welke pinnen van de arduino die zijn aangesloten. Als je in je Arduino gebruik maakt van een kant en klaar circuit, dan kun je in plaats van een tekening ook een tabel geven waarin staat aan welke pinnen sensoren en actuatoren zitten die je gaat gebruiken.
 
