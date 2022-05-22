@@ -22,7 +22,7 @@ Je kunt een circuit bijvoorbeeld als volgt maken
 
 
 ## Stap 2: Test Code
-- [ ] Je hebt code gemaakt waarmee je kunt testen dat alle onderdelen op je circuit goed werken. Dit sla je op in GitHub.
+- [x] Je hebt code gemaakt waarmee je kunt testen dat alle onderdelen op je circuit goed werken. Dit sla je op in GitHub.
 
 gebruik voor de auto: https://www.waveshare.com/wiki/AlphaBot2-Ar    https://www.waveshare.com/wiki/File:AlphaBot2-Demo.7z
 
@@ -35,8 +35,8 @@ De test-code is een ander programma dan je eindcode. De testcode laat snel zien 
 De voorbeeldcode in deze repo is een goed begin van testcode. Je kunt die zelf afmaken en in deze map zetten.
 
 ## Stap 3: Toestandsdiagram 
-- [ ] Je hebt een toestandsdiagram gemaakt. Dit sla je op in GitHub.
-- [ ] Je hebt je docent gevraagd om feedback over je toestandsdiagram. De feedback heb je verwerkt. Het uiteindelijke resultaat sla je weer op in GitHub.
+- [x] Je hebt een toestandsdiagram gemaakt. Dit sla je op in GitHub.
+- [x] Je hebt je docent gevraagd om feedback over je toestandsdiagram. De feedback heb je verwerkt. Het uiteindelijke resultaat sla je weer op in GitHub.
 
 In deze map zet je een tekening van je toestandsdiagram.
 
@@ -47,14 +47,14 @@ Je kunt een toestandsdiagram bijvoorbeeld als volgt maken
 
 ## Stap 4: Project Code
 
-- [ ] Je hebt het toestandsdiagram in code omgezet, zodat alle toestanden doorlopen kunnen worden met jouw circuit. Daarbij heb je het door de docent aangeleverde projectcode als startpunt gebruikt. Voor projecten waar geen startcode is sluit je aan bij wat je in de les geleerd hebt over toestandsdiagrammencode. Nog niet alle onderdelen van je apparaat hoeven het te doen, zolang alle toestanden maar doorlopen kunnen worden. De laatste versie van je code sla je steeds op op GitHub.
-- [ ]	Je hebt de code van je toestandsdiagram uitgebreid, zodat je project het doet. De laatste versie van je code sla je steeds op op GitHub.
-- [ ]	Je hebt je ontwerp uitgebreid met extra ideeën en deze heb je verwerkt in je aansluitschema (als je extra Arduino-onderdelen hebt toegevoegd) en in je code. De laatste versie van je code sla je steeds op op GitHub.
+- [x] Je hebt het toestandsdiagram in code omgezet, zodat alle toestanden doorlopen kunnen worden met jouw circuit. Daarbij heb je het door de docent aangeleverde projectcode als startpunt gebruikt. Voor projecten waar geen startcode is sluit je aan bij wat je in de les geleerd hebt over toestandsdiagrammencode. Nog niet alle onderdelen van je apparaat hoeven het te doen, zolang alle toestanden maar doorlopen kunnen worden. De laatste versie van je code sla je steeds op op GitHub.
+- [x]	Je hebt de code van je toestandsdiagram uitgebreid, zodat je project het doet. De laatste versie van je code sla je steeds op op GitHub.
+- [x]	Je hebt je ontwerp uitgebreid met extra ideeën en deze heb je verwerkt in je aansluitschema (als je extra Arduino-onderdelen hebt toegevoegd) en in je code. De laatste versie van je code sla je steeds op op GitHub.
 
 In de map voor deze stap zet je de Arduino-code (het .ino bestand) van je project. De naam van een .ino bestand mag geen spaties bevatten en het .ino bestand moet in een map staan met dezelfde naam.
 
 ## Stap 5: Video
-- [ ] Maak een video die de werking van je project demonstreert.
+- [x] Maak een video die de werking van je project demonstreert.
 
 Het is een video met geluid (uitleg tijdens de demonstratie) in .mp4 of .mov formaat van maximaal 20MB of .txt bestand met link naar youtube. De video duurt maximaal 2 minuten.
 
